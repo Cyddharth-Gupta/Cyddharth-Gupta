@@ -47,20 +47,19 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 
 ## 📚 Featured Repositories
 
-### [Awesome Web Project 1](https://github.com/yourusername/awesome-web-project1)
+### [MERN Video Chat App with WebRTC and Socket.io](https://github.com/Cyddharth-Gupta/video-chat-app)
+![Video Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Cyddharth-Gupta&repo=video-chat-app&theme=radical)
 
-![Web Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-web-project1&theme=radical)
+This repository contains a real-time video chat application built using the MERN stack (MongoDB, Express, React, Node.js) and WebRTC. The app leverages the power of WebRTC for real-time peer-to-peer video and audio communication, and Socket.io for enabling the signaling process between peers. The TCP/IP and UDP concepts are used to establish and manage connections during the video chat sessions.
 
-Description of what this web project is about and its main features.
+### [Weight Category Prediction using Random Forest](https://github.com/Cyddharth-Gupta/weight-cateogory-prediction-using-random-forest)
 
-### [ML Project 2](https://github.com/yourusername/ml-project2)
+![Weight Category Prediction using Random Forest](https://github-readme-stats.vercel.app/api/pin/?username=Cyddharth-Gupta&repo=weight-cateogory-prediction-using-random-forest&theme=radical)
 
-![ML Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ml-project2&theme=radical)
-
-Description of what this ML project is about and its main features.
+This repository contains a machine learning project that predicts weight categories based on various input features using the Random Forest algorithm. The Random Forest model is trained on a labeled dataset containing height, age, and other relevant attributes to classify individuals into different weight categories (e.g., underweight, normal, overweight, and obese). The project aims to provide accurate weight category predictions and facilitate better understanding of the factors contributing to weight classification.
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting discussions and collaboration. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) or [Twitter](https://twitter.com/yourhandle).
+I'm always open to interesting discussions and collaboration. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cyddharth/) or [Twitter](https://twitter.com/cyddharth_gupta).
 
 Looking forward to learning and growing together! 😄
