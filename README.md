@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi there! 👋 I'm Siddharth Gupta
+# Hi there! 👋 I'm Siddharth, a Full-stack Developer and an ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SiddharthGupta-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cyddharth/)](https://www.linkedin.com/in/cyddharth/)
 [![Twitter](https://img.shields.io/badge/Twitter-SiddharthGupta-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cyddharth_gupta)](https://twitter.com/cyddharth_gupta)
