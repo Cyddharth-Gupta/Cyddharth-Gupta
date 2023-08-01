@@ -43,7 +43,7 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 
 ## 📈 GitHub Stats
 
-[![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyddharth-Gupta&show_icons=true&hide=prs&theme=radical)](https://github.com/Cyddharth-Gupta)
+[![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyddharth-Gupta&show_icons=true&hide=contribs&show=prs&theme=radical)](https://github.com/Cyddharth-Gupta)
 
 ## 📚 Featured Repositories
 
