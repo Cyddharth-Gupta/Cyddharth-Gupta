@@ -25,9 +25,9 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 
 ### Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,html,css,git,github)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,html,css,git,github)](https://skillicons.dev)-->
 
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -35,7 +35,7 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) -->
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 ### Machine Learning
 
@@ -44,10 +44,15 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+![Scikit-learn](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-black?style=flat-square&logo=amazonaws)
 
+<!--<img src='https://cdnq.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg' width="5%" height="5%">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
 ## 📈 GitHub Stats
 
-[![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyddharth-Gupta&show_icons=true&hide=contribs&show=prs&theme=radical)](https://github.com/Cyddharth-Gupta)
+<!-- [![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyddharth-Gupta&show_icons=true&hide=contribs&show=prs&theme=radical)](https://github.com/Cyddharth-Gupta) -->
+[![Siddharth's GitHub Stats](https://streak-stats.demolab.com?user=Cyddharth-Gupta&theme=vue)](https://git.io/streak-stats)
 
 ## 📚 Featured Repositories
 
@@ -64,7 +69,8 @@ This repository contains a machine learning project that predicts weight categor
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting discussions and collaboration. Feel free to connect with me on [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cyddharth) or 
+I'm always open to interesting discussions and collaboration. Feel free to connect with me on :  
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cyddharth) 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cyddharth_gupta).
 
 Looking forward to learning and growing together! 😄
