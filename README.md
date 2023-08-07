@@ -8,6 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-SiddharthGupta-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cyddharth_gupta)](https://twitter.com/cyddharth_gupta)
 [![Portfolio](https://img.shields.io/badge/Portfolio-SGFolio-9cf?style=flat-square&link=https://sgfolio.com)](https://sgfolio.vercel.app)
 
+
 ## 🚀 About Me
 
 I'm a passionate software developer with expertise in web development. I specialize in building elegant and user-friendly web applications using cutting-edge technologies like React, Next.js, and Node.js. With a strong foundation in HTML, CSS, JavaScript and Python. I have hands-on experience in crafting responsive and interactive frontends.
@@ -21,9 +22,12 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 
 ## 🛠️ Technologies & Tools
 
+
 ### Web Development
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,html,css,git,github)](https://skillicons.dev)
+
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -31,7 +35,7 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) -->
 
 ### Machine Learning
 
@@ -60,6 +64,7 @@ This repository contains a machine learning project that predicts weight categor
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting discussions and collaboration. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cyddharth/) or [Twitter](https://twitter.com/cyddharth_gupta).
+I'm always open to interesting discussions and collaboration. Feel free to connect with me on [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cyddharth) or 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cyddharth_gupta).
 
 Looking forward to learning and growing together! 😄
