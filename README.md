@@ -1,12 +1,29 @@
-<div id="header" align="center">
-  <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</div>
 
-# Hi there! 👋 I'm Siddharth, a Full-stack Developer and an ML Engineer
+<h1 align="left"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJ3b2hsYzlpcGg1bDVxZjNzeHJrbm5lc2MxMzNxZXh3cGpxZTJkOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VFGsPXfFeIcGdtwAIC/giphy.gif" width="100">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines= Namaste +🙏🏻+,+I'm+Siddharth+Gupta!;Full-Stack%20Developer;ML%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a> </h1>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br>
+<p><em>Striving to become a good Machine Learning Engineer &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SiddharthGupta-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cyddharth/)](https://www.linkedin.com/in/cyddharth/)
 [![Twitter](https://img.shields.io/badge/Twitter-SiddharthGupta-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cyddharth_gupta)](https://twitter.com/cyddharth_gupta)
 [![Portfolio](https://img.shields.io/badge/Portfolio-SGFolio-9cf?style=flat-square&link=https://sgfolio.com)](https://sgfolio.vercel.app)
+
+
+<p align="center"> 
+    
+  Visitors count
+<br>
+<img src="https://profile-counter.glitch.me/Cyddharth-Gupta/count.svg" />
+</p>
+
+
+
+
 
 
 ## 🚀 About Me
@@ -14,6 +31,9 @@
 I'm a passionate software developer with expertise in web development. I specialize in building elegant and user-friendly web applications using cutting-edge technologies like React, Next.js, and Node.js. With a strong foundation in HTML, CSS, JavaScript and Python. I have hands-on experience in crafting responsive and interactive frontends.
 
 While I excel in web development, I'm also deeply interested in the field of Machine Learning. I'm currently on a learning journey to expand my skills in this exciting domain. Exploring the realms of data science, neural networks, and predictive modeling fascinates me, and I'm eager to apply ML techniques to solve real-world problems.
+
+<h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
+
 
 - 💼 Currently working at [Nessviews](https://www.nessviews.com).
 - 🌱 I’m currently learning about advanced ML algorithms and frameworks like TensorFlow and PyTorch.
