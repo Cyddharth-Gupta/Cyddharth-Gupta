@@ -77,7 +77,7 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyddharth-Gupta&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cyddharth-Gupta&theme=vue&no-frame=false&no-bg=false&margin-w=4&rank=S,AAA,AA,A,B)
+![](https://github-profile-trophy.vercel.app/?username=Cyddharth-Gupta&theme=vue&no-frame=false&no-bg=false&margin-w=4&rank=SS,SSS,S,AAA,AA,A,B)
 
 
 ## 📚 Featured Repositories
