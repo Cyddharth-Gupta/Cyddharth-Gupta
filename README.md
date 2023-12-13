@@ -71,8 +71,14 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
 ## 📈 GitHub Stats
 
-<!-- [![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyddharth-Gupta&show_icons=true&hide=contribs&show=prs&theme=radical)](https://github.com/Cyddharth-Gupta) -->
-[![Siddharth's GitHub Stats](https://streak-stats.demolab.com?user=Cyddharth-Gupta&theme=vue)](https://git.io/streak-stats)
+<!-- [![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyddharth-Gupta&show_icons=true&hide=contribs&show=prs&theme=radical)](https://github.com/Cyddharth-Gupta)  -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Cyddharth-Gupta&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
+![Siddharth's GitHub Stats](https://streak-stats.demolab.com?user=Cyddharth-Gupta&theme=vue)]<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyddharth-Gupta&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cyddharth-Gupta&theme=vue&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 📚 Featured Repositories
 
