@@ -35,7 +35,7 @@ While I excel in web development, I'm also deeply interested in the field of Mac
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
 
-- 💼 Currently working at [YourToken](https://www.yourtoken.io/).
+- 💼 Currently working at [DivineTalk Astrology](https://divinetalk.in/).
 - 🌱 I’m currently learning about advanced ML algorithms and frameworks like TensorFlow and PyTorch.
 - 🔭 I’m looking to collaborate on open-source web projects and ML-related challenges.
 - 💬 Ask me about anything related to web development or my ML learning journey!
