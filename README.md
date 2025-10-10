@@ -19,7 +19,8 @@
     
   Visitors count
 <br>
-<img src="https://profile-counter.glitch.me/Cyddharth-Gupta/count.svg" />
+<img src="https://profile-counter.deno.dev/Cyddharth-Gupta/count.svg" />
+
 </p>
 
 
