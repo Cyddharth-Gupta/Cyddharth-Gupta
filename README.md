@@ -30,14 +30,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with expertise in web development. I specialize in building elegant and user-friendly web applications using cutting-edge technologies like React, Next.js, and Node.js. With a strong foundation in HTML, CSS, JavaScript and Python. I have hands-on experience in crafting responsive and interactive frontends.
+I'm a passionate problem solver with expertise in web development. I specialize in building elegant and user-friendly web applications using cutting-edge technologies like React, Next.js, and Node.js. With a strong foundation in HTML, CSS, JavaScript and Python. I have hands-on experience in crafting responsive and interactive frontends.
 
 While I excel in web development, I'm also deeply interested in the field of Machine Learning. I'm currently on a learning journey to expand my skills in this exciting domain. Exploring the realms of data science, neural networks, and predictive modeling fascinates me, and I'm eager to apply ML techniques to solve real-world problems.
 
 <h2 ><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="65" height="60"> I'm currently ...</h2>
 
 
-- 💼 Currently working at [DivineTalk Astrology](https://divinetalk.in/).
+- 💼 Currently working at [PowerPush AI ](https://powerpush.ai/).
 - 🌱 I’m currently learning about advanced ML algorithms and frameworks like TensorFlow and PyTorch.
 - 🔭 I’m looking to collaborate on open-source web projects and ML-related challenges.
 - 💬 Ask me about anything related to web development or my ML learning journey!
